@@ -60,3 +60,9 @@ GET "/product/{id}
 PUT "/product/{id}
 DELETE "/product/{id}
 ```
+
+Example:
+
+```
+http://localhost:8010/products
+```
